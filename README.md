@@ -30,4 +30,3 @@ Svelte client  ──REST/JWT──▶  Dispatcher ──▶ Thread pool ──�
 ## Author
 
 Built by [Omar Ramadan](https://github.com/Omar1Ramadan).
-# Folium Project
